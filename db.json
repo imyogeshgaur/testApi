@@ -1,34 +1,5 @@
-[
-  {
-    "question": "Q1: What is the Full Form of HTML ?",
-    "a": "Hello To My Land",
-    "b": "Hey Text Markup Language",
-    "c": "HyperText Makeup Language",
-    "d": "HyperText Markup Language",
-    "ans": "ans4"
-  },
-  {
-    "question": "Q2: What is the Full Form of CSS ?",
-    "a": "Cascading Style Sheet",
-    "b": "Cascading Style Sheep",
-    "c": "Cartoon Style Sheet",
-    "d": "Cascading Super Sheet",
-    "ans": "ans1"
-  },
-  {
-    "question": "Q3: What is the Full Form of HTTP ?",
-    "a": "HyperText Transfer Product",
-    "b": "HyperText Test Protocol",
-    "c": "HyperText Transfer Protocol",
-    "d": "High Test Protocol",
-    "ans": "ans3"
-  },
-  {
-    "question": "Q4: What is the Full Form of JS ?",
-    "a": "JavaSuper",
-    "b": "JavaScript",
-    "c": "JustScript",
-    "d": "JordernShoes",
-    "ans": "ans2"
-  }
-]
+{
+   post:{
+     {id:1,"title:"Yogesh gaur"},
+     {id:2,"title":"Mukesh Gaur"}
+}
