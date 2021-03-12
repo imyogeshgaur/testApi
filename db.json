@@ -1,6 +1,6 @@
 {
    "post":{
-     {id:1,"title:"Yogesh Yogesh"},
-     {id:2,"title":"Mukesh gaur"}
+     {"id":1,"title:"Yogesh gaur"},
+     {"id":2,"title":"Mukesh gaur"}
 }
 }
